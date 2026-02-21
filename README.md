@@ -2,27 +2,29 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [job portal for widows] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Nova]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [soorya gayathry] - [lourdes matha college of science and technology]
+- Member 2: [gadhya] - [lourdes matha college of science and technology]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[workher helps widows find nearby job opportunities easily.
+It uses live location or manual input to show suitable jobs with simple application guidance]
 
 ### The Problem statement
-[What problem are you solving?]
+[Many widows struggle to find suitable jobs due to lack of guidance and accessible platforms.
+There is no easy way to discover nearby job opportunities that match their skills and age.]
 
 ### The Solution
-[How are you solving it?]
+[workher provides a simple platform where widows can enter their details or use live location to find nearby job opportunities. The website displays suitable jobs with instructions on how to apply, making employment access easier and faster.]
 
 ---
 
@@ -31,25 +33,31 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [HTML,CSS,JavaScript]
+- Frameworks used: [pure HTML,CSS,JavaScript]
+- Libraries used: [HTML,CSS,JavaScript]
+- Tools used: [VS code,web browser]
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: [laptop,internet connection,mobile device,storage]
+- Specifications: [Platform: Web-based application (accessible via browser on PC or mobile).
+Frontend: Built with HTML, CSS, and JavaScript.
+Backend (Optional for Future): Node.js with Express.js and MongoDB for storing job listings.
+Live Location Feature: Uses Browser Geolocation API + OpenStreetMap API to detect user city automatically.
+Job Search: Filters jobs based on age and location.
+UI/UX: Clean, responsive design with floating cards to show jobs (antigravity effect).
+Accessibility: Can be used by widows of any age with simple form inputs.
+Device Compatibility: Desktop, tablet, and mobile-friendly.]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [job search:widows can find job based on age and location]
+- Feature 2: [live location detector]
+- Feature 3: [responsive design]
+- Feature 4: [easy to use]
 
 ---
 
@@ -83,14 +91,18 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1229" height="642" alt="Screenshot 2026-02-21 at 11-10-45 workher Job Portal" src="https://github.com/user-attachments/assets/7946ddf6-a224-4360-b9af-13233787bb69" />
+*This is our home page *
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1198" height="675" alt="Screenshot 2026-02-21 at 11-11-38 Job Search India Indeed" src="https://github.com/user-attachments/assets/9bd436f3-7aa5-4558-bcd1-791056df126e" />
+
+*job search*
+
+
+<img width="1210" height="2985" alt="Screenshot 2026-02-21 at 11-12-23 50 Fresher Job Vacancies in Kerala Indeed" src="https://github.com/user-attachments/assets/1763a23c-90ee-47f1-a026-ac07416c1365" />
+
+*verification*
 
 #### Diagrams
 
@@ -361,7 +373,12 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+
+
+
+
+https://github.com/user-attachments/assets/8102bc9c-ab12-4dd7-86d2-1b4048c36b6c
+
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
