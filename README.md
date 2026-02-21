@@ -14,6 +14,7 @@
 
 ### Hosted Project Link
 
+https://gadhya12.github.io/Job-Portal-for-Widows/
 
 ### Project Description
 [workher helps widows find nearby job opportunities easily.
